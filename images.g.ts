@@ -22,25 +22,6 @@ namespace myImages {
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `;
-            case "image2":
-            case "doorBlue":return img`
-8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 c 
-9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 c 
-9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 d 
-9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 b 
-9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 b 
-9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 c 
-9 8 8 f f 8 8 8 8 8 8 8 8 8 8 c 
-9 8 f 1 d f 8 8 8 8 8 8 8 8 8 c 
-9 8 f d d f 8 8 8 8 8 8 8 8 8 c 
-9 8 8 f f 8 8 8 8 8 8 8 8 8 8 c 
-9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 c 
-9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 d 
-9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 b 
-9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 b 
-9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 c 
-c c c c c c c c c c c c c c c c 
-`;
             case "image3":
             case "doorGreen":return img`
 7 6 6 6 6 6 6 6 6 6 6 6 6 6 6 c 
@@ -639,6 +620,13 @@ eeee............
 ......................
 ......................
 `];
+        }
+        return null;
+    })
+
+    helpers._registerFactory("song", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+
         }
         return null;
     })

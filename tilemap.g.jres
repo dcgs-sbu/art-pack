@@ -4,6 +4,12 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
+    "tile2": {
+        "data": "hwQQABAAAACYmZmZmZmZyYmIiIiIiIjIiYiI+I+IiMiJiIgf/YiIyImIiN/9iIjIiYiI+I+IiMiJiIiIiIiIyImIiIiIiIjIiYiIiIiIiMiJiIiIiIiIyImIiIiIiIjIiYiIiIiIiMiJiIiIiIiIyImIiIiIiIjIiYiIiIiIiMjMvcvMzNy7zA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "doorBlue"
+    },
     "level1": {
         "id": "level1",
         "mimeType": "application/mkcd-tilemap",
