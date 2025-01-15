@@ -1,0 +1,13 @@
+{
+    "tile1": {
+        "data": "hwQQABAAAACYmZmZmZmZyYmIiIiIiIjIiYiI+I+IiMiJiIgf/YiIyImIiN/9iIjIiYiI+I+IiMiJiIiIiIiIyImIiIiIiIjIiYiIiIiIiMiJiIiIiIiIyImIiIiIiIjIiYiIiIiIiMiJiIiIiIiIyImIiIiIiIjIiYiIiIiIiMjMvcvMzNy7zA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "doorBlue"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "customTiles_Additional"
+    }
+}
