@@ -8,7 +8,9 @@
         "main.blocks",
         "main.ts",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        "tiles.jres",
+        "tiles.ts"
     ],
     "testFiles": [
         "test.ts"
