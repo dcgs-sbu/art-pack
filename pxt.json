@@ -1,5 +1,5 @@
 {
-    "name": "DCGS Animations Pack",
+    "name": "DCGS Art Pack",
     "description": "A small collection of art assets for use with the DCGS MakeCode Arcade tutorials.",
     "dependencies": {
         "device": "*"
