@@ -10,7 +10,8 @@
         "images.g.jres",
         "images.g.ts",
         "tiles.jres",
-        "tiles.ts"
+        "tiles.ts",
+        "icon.png"
     ],
     "testFiles": [
         "test.ts"
