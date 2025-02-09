@@ -1,7 +1,7 @@
 {
     "name": "DCGS Art Pack",
     "version": "1.0.1",
-    "description": "A small collection of art assets for use with the DCGS MakeCode Arcade tutorials.",
+    "description": "A small collection of art assets for use with the DCGS MakeCode Arcade tutorials .",
     "dependencies": {
         "device": "*"
     },
