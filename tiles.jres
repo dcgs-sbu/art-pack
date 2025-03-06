@@ -52,6 +52,12 @@
         "tilemapTile": true,
         "displayName": "spikesDown"
     },
+    "ladder": {
+        "data": "hwQQABAAAAAAAAAAAAAAAO7u7u7u7u7u7u7u7u7u7u5E5ETkRORE5ADuAO4A7gDuAO4A7gDuAO4A7gDuAO4A7gDuAO4A7gDuAO4A7gDuAO4A7gDuAO4A7gDuAO4A7gDuAOwA7ADsAOzu7u7u7u7u7u7u7u7u7u7uREREREREREQAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "ladder"
+    },
     "ice": {
         "data": "hwQQABAAAACZmZmZmZmZkZmZmZmZkZmZmZmZmRmZmZmZkZmZkZmZmRmZmRmZmZmZmZmZkZmZGZmZmZmZmZmRmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZGZmZmZmZkZmZmZmZmZmZGZmRmZmZmZmZmZkZmZkZmZmZmZmZmZmZmZmZmZGQ==",
         "mimeType": "image/x-mkcd-f4",
