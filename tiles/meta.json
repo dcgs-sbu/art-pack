@@ -3,9 +3,9 @@
     "height": 16,
     "creator": "image.ofBuffer",
     "star": {
-        "namespace": "tileUtil",
+        "namespace": "customTiles_Additional",
         "mimeType": "image/x-mkcd-f4"
     },
-    "tags": "tile category-TileUtil",
+    "tags": "tile category-Additional",
     "blockIdentity": "images._tile"
 }
