@@ -6,7 +6,6 @@
         "device": "*"
     },
     "files": [
-        "main.blocks",
         "main.ts",
         "assets.json",
         "images.g.jres",
