@@ -1,4 +1,9 @@
 {
+    "*": {
+        "namespace": "customTiles_Additional",
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64"        
+    },
     "doorBlue": {
         "data": "hwQQABAAAACYmZmZmZmZyYmIiIiIiIjIiYiI+I+IiMiJiIgf/YiIyImIiN/9iIjIiYiI+I+IiMiJiIiIiIiIyImIiIiIiIjIiYiIiIiIiMiJiIiIiIiIyImIiIiIiIjIiYiIiIiIiMiJiIiIiIiIyImIiIiIiIjIiYiIiIiIiMjMvcvMzNy7zA==",
         "mimeType": "image/x-mkcd-f4",
@@ -64,10 +69,5 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
         "displayName": "swordPickup"
-    },
-    "*": {
-        "mimeType": "image/x-mkcd-f4",
-        "dataEncoding": "base64",
-        "namespace": "customTiles_Additional"
     }
 }
