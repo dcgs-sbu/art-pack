@@ -7,73 +7,61 @@
     "doorBlue": {
         "data": "hwQQABAAAACYmZmZmZmZyYmIiIiIiIjIiYiI+I+IiMiJiIgf/YiIyImIiN/9iIjIiYiI+I+IiMiJiIiIiIiIyImIiIiIiIjIiYiIiIiIiMiJiIiIiIiIyImIiIiIiIjIiYiIiIiIiMiJiIiIiIiIyImIiIiIiIjIiYiIiIiIiMjMvcvMzNy7zA==",
         "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "doorBlue"
+        "tilemapTile": true
     },
     "doorRed": {
         "data": "hwQQABAAAABCRERERERExCQiIiIiIiLCJCIi8i8iIsIkIiIf/SIiwiQiIt/9IiLCJCIi8i8iIsIkIiIiIiIiwiQiIiIiIiLCJCIiIiIiIsIkIiIiIiIiwiQiIiIiIiLCJCIiIiIiIsIkIiIiIiIiwiQiIiIiIiLCJCIiIiIiIsLMvcvMzNy7zA==",
         "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "doorRed"
+        "tilemapTile": true
     },
     "doorGreen": {
         "data": "hwQQABAAAABnZmZmZmZmxnZ3d3d3d3fHdnd39393d8d2d3cf/Xd3x3Z3d9/9d3fHdnd39393d8d2d3d3d3d3x3Z3d3d3d3fHdnd3d3d3d8d2d3d3d3d3x3Z3d3d3d3fHdnd3d3d3d8d2d3d3d3d3x3Z3d3d3d3fHdnd3d3d3d8fMvcvMzNy7zA==",
         "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "doorGreen"
+        "tilemapTile": true
     },
     "keyBlue": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAgAAAAAAICYiAAAAAAAgACJAAAAAACACIgAAAAAAACICAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAJAAAAAAAAgIgAAAAAAACACQAAAAAAAICIAAAAAAAAAQAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "keyBlue"
+        "tilemapTile": true
     },
     "keyRed": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIgIAAAAAACBCIgAAAAAAIAAkAAAAAAAgAiIAAAAAAAAiAgAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAEAAAAAAAAICIAAAAAAAAgBAAAAAAAACAiAAAAAAAAAQAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "keyRed"
+        "tilemapTile": true
     },
     "keyGreen": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdwcAAAAAAHBndwAAAAAAcAB2AAAAAABwB3cAAAAAAAB3BwAAAAAAAHAAAAAAAAAAcAAAAAAAAABwAAAAAAAAAHAGAAAAAAAAcHcAAAAAAABwBgAAAAAAAHB3AAAAAAAAAQAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "keyGreen"
+        "tilemapTile": true
     },
     "spikesUp": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAADvAADvAAAAAGYOAGYOAAARZg4RZg4AAAARDgARDgAAAO8AAO8AAAAAAAAAAAAAAAAAAAAAAAAAAO8AAO8AAAAAZg4AZg4AABFmDhFmDgAAABEOABEOAAAA7wAA7wAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "spikesUp"
+        "tilemapTile": true
     },
     "spikesDown": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAADvAADvAAAA8P8O8P8OAADw/w7w/w4AAPD/DvD/DgAAAO8AAO8AAAAAAAAAAAAAAAAAAAAAAAAAAO8AAO8AAADw/w7w/w4AAPD/DvD/DgAA8P8O8P8OAAAA7wAA7wAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "spikesDown"
+        "tilemapTile": true
     },
     "ladder": {
         "data": "hwQQABAAAAAAAAAAAAAAAO7u7u7u7u7u7u7u7u7u7u5E5ETkRORE5ADuAO4A7gDuAO4A7gDuAO4A7gDuAO4A7gDuAO4A7gDuAO4A7gDuAO4A7gDuAO4A7gDuAO4A7gDuAOwA7ADsAOzu7u7u7u7u7u7u7u7u7u7uREREREREREQAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "ladder"
+        "tilemapTile": true
     },
     "ice": {
         "data": "hwQQABAAAACZmZmZmZmZkZmZmZmZkZmZmZmZmRmZmZmZkZmZkZmZmRmZmRmZmZmZmZmZkZmZGZmZmZmZmZmRmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZGZmZmZmZkZmZmZmZmZmZGZmRmZmZmZmZmZkZmZkZmZmZmZmZmZmZmZmZmZGQ==",
         "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "ice"
+        "tilemapTile": true
     },
     "blockMetal": {
         "data": "hwQQABAAAADb3d3d3d3dzb27u7u7u7vLvbu7u7u7u8u927y7u7vNy73LvLu7u8zLvbu7u7u7u8u9u7u7u7u7y727u7u7u7vLvbu7u7u7u8u9u7u7u7u7y727u7u7u7vLvbu7u7u7u8u927y7u7vNy73LvLu7u8zLvbu7u7u7u8vMzMzMzMzMzA==",
         "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "blockMetal"
+        "tilemapTile": true
     },
     "swordPickup": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJABAAAAAAAAGQEAAAAAAJARAAAAAAAAGQEAAAAAAJARAAAAAAAAGQEAAAAA4JARAAAAAAAAHgEAAAAAALDsAAAAAAAAsAsOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "swordPickup"
+        "tilemapTile": true
     }
 }
