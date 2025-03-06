@@ -25,6 +25,9 @@ namespace customTiles_Additional {
     export const spikesDown = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
     //% tags="tile category-Additional"
+    export const ladder = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=images._tile
+    //% tags="tile category-Additional"
     export const ice = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
     //% tags="tile category-Additional"
