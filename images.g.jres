@@ -1,4 +1,9 @@
 {
+    "rocket": {
+        "data": "hwQQAAcAAAAAQAAAAFAAAABUBAAAVAQAIhHtAiIRLQIgES0AABENAAARDQAAEQ0AABENAAARDQAAIg4AACIOAAAiAgAAIAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "rocket"
+    },
     "flame": {
         "namespace": "",
         "id": "flame",
