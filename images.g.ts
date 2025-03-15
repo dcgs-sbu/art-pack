@@ -4,7 +4,7 @@ namespace myImages {
     helpers._registerFactory("animation", function(name: string) {
         switch(helpers.stringTrim(name)) {
             case "flame":
-            case "{Ej|GyMJbTYD_4i|n(gg":return [img`
+            case "flame":return [img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
@@ -243,7 +243,6 @@ namespace myImages {
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `];
-        switch(helpers.stringTrim(name)) {
             case "swordAttackUp":
             case "swordAttackUp":return [img`
 ......................
