@@ -4,7 +4,7 @@ namespace myImages {
     helpers._registerFactory("animation", function(name: string) {
         switch(helpers.stringTrim(name)) {
             case "flame":
-            case "flame":return [img`
+            case "{Ej|GyMJbTYD_4i|n(gg":return [img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
