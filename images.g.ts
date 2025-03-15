@@ -1,6 +1,22 @@
 // Auto-generated code. Do not edit.
 namespace myImages {
 
+    helpers._registerFactory("image", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+            case "rocket":
+            case "rocket":return img`
+. . . . 2 2 . . . . . . . . . . 
+. . . . 2 2 2 . . . . . . . . . 
+. . 4 4 1 1 1 1 1 1 1 1 2 2 2 . 
+4 5 5 5 1 1 1 1 1 1 1 1 2 2 2 2 
+. . 4 4 d d d d d d d d e e 2 . 
+. . . . e 2 2 . . . . . . . . . 
+. . . . 2 2 . . . . . . . . . . 
+`;
+        }
+        return null;
+    })
+
     helpers._registerFactory("animation", function(name: string) {
         switch(helpers.stringTrim(name)) {
             case "flame":
