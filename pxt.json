@@ -12,7 +12,8 @@
         "images.g.ts",
         "tiles.jres",
         "tiles.ts",
-        "icon.png"
+        "icon.png",
+        "README.md"
     ],
     "testFiles": [
         "test.ts"
