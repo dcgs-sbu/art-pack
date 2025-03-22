@@ -68,11 +68,6 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
-    "*": {
-        "namespace": "customTiles_Placeholders",
-        "mimeType": "image/x-mkcd-f4",
-        "dataEncoding": "base64"        
-    },
     "placeholder0": {
         "data": "hwQQABAAAAAAAAAAAAAAAACIiIiIiIgAgIiIiIiIiAiAiIiIiIiICICIiIiIiIgIgIgYERGBiAiAiBERERGICICIgYiBGIgIgIiBGIgYiAiAiBERERGICICIGBERgYgIgIiIiIiIiAiAiIiIiIiICICIiIiIiIgIAIiIiIiIiAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
