@@ -13,6 +13,10 @@ namespace customTiles_Additional {
     
     //% fixedInstance jres blockIdentity=images._tile
     //% tags="tile category-Additional"
+    export const spikesUp = image.ofBuffer(hex``);
+    
+    //% fixedInstance jres blockIdentity=images._tile
+    //% tags="tile category-Additional"
     export const keyBlue = image.ofBuffer(hex``);
     
     //% fixedInstance jres blockIdentity=images._tile
@@ -22,10 +26,6 @@ namespace customTiles_Additional {
     //% fixedInstance jres blockIdentity=images._tile
     //% tags="tile category-Additional"
     export const keyGreen = image.ofBuffer(hex``);
-    
-    //% fixedInstance jres blockIdentity=images._tile
-    //% tags="tile category-Additional"
-    export const spikesUp = image.ofBuffer(hex``);
     
     //% fixedInstance jres blockIdentity=images._tile
     //% tags="tile category-Additional"
