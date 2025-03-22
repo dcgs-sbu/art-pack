@@ -41,11 +41,15 @@ namespace customTiles_Additional {
     
     //% fixedInstance jres blockIdentity=images._tile
     //% tags="tile category-Additional"
-    export const ice = image.ofBuffer(hex``);
+    export const blockMetal = image.ofBuffer(hex``);
     
     //% fixedInstance jres blockIdentity=images._tile
     //% tags="tile category-Additional"
-    export const blockMetal = image.ofBuffer(hex``);
+    export const metalGrate = image.ofBuffer(hex``);
+    
+    //% fixedInstance jres blockIdentity=images._tile
+    //% tags="tile category-Additional"
+    export const ice = image.ofBuffer(hex``);
     
     //% fixedInstance jres blockIdentity=images._tile
     //% tags="tile category-Additional"
