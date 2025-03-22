@@ -50,9 +50,7 @@ namespace customTiles_Additional {
     //% fixedInstance jres blockIdentity=images._tile
     //% tags="tile category-Additional"
     export const swordPickup = image.ofBuffer(hex``);
-}
 
-namespace customTiles_Placeholders {
     //% fixedInstance jres blockIdentity=images._tile
     //% tags="tile category-Placeholders"
     export const placeholder0 = image.ofBuffer(hex``);
