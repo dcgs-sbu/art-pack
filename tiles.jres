@@ -63,6 +63,11 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
+    "metalGrate": {
+        "data": "hwQQABAAAADq7u7u7u7uzr67vLu7y7vrvs/P//z8/Ou+z8///Pz8687Pz//8/Pzsvs/Pz//8/Ou+z8/P//z8677Pz8///Pzrvs/Pz//8/Ou+z8/P//z8677Pz8///Pzrzs/Pz//8/Oy+z8/P//z8677Pz8///Pzrvru8u7vLu+vs7u7u7u7u3g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+    },
     "swordPickup": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJABAAAAAAAAGQEAAAAAAJARAAAAAAAAGQEAAAAAAJARAAAAAAAAGQEAAAAA4JARAAAAAAAAHgEAAAAAALDsAAAAAAAAsAsOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
