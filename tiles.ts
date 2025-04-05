@@ -49,6 +49,22 @@ namespace customTiles_Additional {
     
     //% fixedInstance jres blockIdentity=images._tile
     //% tags="tile category-Additional"
+    export const blockCollapsing0 = image.ofBuffer(hex``);
+     
+    //% fixedInstance jres blockIdentity=images._tile
+    //% tags="tile category-Additional"
+    export const blockCollapsing1 = image.ofBuffer(hex``);
+     
+    //% fixedInstance jres blockIdentity=images._tile
+    //% tags="tile category-Additional"
+    export const blockCollapsing2 = image.ofBuffer(hex``);
+     
+    //% fixedInstance jres blockIdentity=images._tile
+    //% tags="tile category-Additional"
+    export const blockCollapsing3 = image.ofBuffer(hex``);
+    
+    //% fixedInstance jres blockIdentity=images._tile
+    //% tags="tile category-Additional"
     export const ice = image.ofBuffer(hex``);
     
     //% fixedInstance jres blockIdentity=images._tile
